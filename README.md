@@ -9,7 +9,7 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Algorithm
 
-
+```
 1. Define the package as scipy.linalg import lu.
 
 
@@ -20,6 +20,7 @@ To write a program to find the LU Decomposition of a matrix.
 
 
 4.print the variable 'X'
+```
 
 ## Program:
 (i) To find the L and U matrix
