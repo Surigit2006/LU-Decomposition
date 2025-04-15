@@ -44,7 +44,7 @@ print(U)
 /*
 Program to find the LU Decomposition of a matrix.
 Developed by: SURIYA PRAKASH M.K
-RegisterNumber:
+RegisterNumber:212224110053
 A=eval(input())
 B=eval(input())
 import numpy as np
